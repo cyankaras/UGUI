@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0C7C76D3-4BF4-4A57-9460-8958987B1978}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MyToggle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelScroll.cs" Line="25" Column="10" />
+      <File FileName="Assets/Scripts/MyToggle.cs" Line="26" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="UGUI" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f8ac04d-4a30-481c-b1e5-8e5a4d2b73da" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
